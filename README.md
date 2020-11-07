@@ -1,8 +1,5 @@
-# Minh Nguyen
-I am a Bachelor of Information Technology graduate at La Trobe University. I am passionate about developing websites and Android/iOS mobile applications. I specialize in multiple programming frameworks such as React Native, React.js, Node.js, etc.
-
 # Hi there 👋, I am Minh Nguyen
-I am a Bachelor of Information Technology graduate at La Trobe University. I am passionate about developing websites and Android/iOS mobile applications. I specialize in multiple programming frameworks such as React Native, React.js, Node.js, etc.
+Passionate about developing websites and Android/iOS mobile applications. Specialize in React Native, React.js, Node.js, Firebase, etc.
 
 ## Skills
 * ⚛ React.js, Node.js
