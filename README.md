@@ -18,10 +18,10 @@ CSV to XML System is a system designed for Magellan Logistics Company to transla
 #### Links
 [CSV to XML System](https://csv-to-xml-52101.web.app/)
 #### Images
-[Home](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG)
-[Notifications](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG)
-[Saved Mapping](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG)
-[FTP Servers](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG)
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="256" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="256" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="256" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="256" />
 ### Reamot System
 #### Description
 Reamot is a system, which will be developed with the aim to allow both doctors and pharmacists to monitor the medication adherence of their patients.
