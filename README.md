@@ -1,5 +1,6 @@
 # Hi there 👋, I am Minh Nguyen
-Passionate about developing websites and Android/iOS mobile applications. Specialize in React Native, React.js, Node.js, Firebase, etc.
+Passionate about developing websites and Android/iOS mobile applications. 
+Specialize in React Native, React.js, Node.js, Firebase, etc.
 
 ## Skills
 * ⚛ React.js, Node.js
