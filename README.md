@@ -3,6 +3,9 @@ Passionate about developing websites and Android/iOS mobile applications.
 
 Specialize in React Native, React.js, Node.js, Firebase, etc.
 
+## Github Stats
+[![Minh's github stats](https://github-readme-stats.vercel.app/api?username=PhuocHoangMinhNguyen)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 * ⚛ React.js, Node.js
 * 📱 React Native 
@@ -22,9 +25,6 @@ Reamot is a system, which will be developed with the aim to allow both doctors a
 Reamot is compromised of a mobile app (compatible with both iOS and Android) for patients to not only be reminded to take their medication but to also log in when they take it, as well as a webpage for doctors and pharmacists to gain access to their patient's habits and adherence to their advice.
 #### Links
 [Android Download](https://play.google.com/store/apps/details?id=com.reamotreactnative)
-
-## Github Stats
-[![Minh's github stats](https://github-readme-stats.vercel.app/api?username=PhuocHoangMinhNguyen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phuoc-hoang-minh-nguyen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenPhuocHoangMinh)  
