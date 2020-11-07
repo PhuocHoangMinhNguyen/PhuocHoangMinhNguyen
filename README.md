@@ -18,8 +18,7 @@ CSV to XML System is a system designed for Magellan Logistics Company to transla
 #### Links
 [CSV to XML System](https://csv-to-xml-52101.web.app/)
 #### Images
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="256" />
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="256" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="256" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="256" />
 <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="256" />
 <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="256" />
 ### Reamot System
