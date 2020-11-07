@@ -18,7 +18,7 @@ CSV to XML System is a system designed for Magellan Logistics Company to transla
 #### Links
 [CSV to XML System](https://csv-to-xml-52101.web.app/)
 #### Images
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="500" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="500" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="500" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="500" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="500" />
 ### Reamot System
 #### Description
 Reamot is a system, which will be developed with the aim to allow both doctors and pharmacists to monitor the medication adherence of their patients.
@@ -27,7 +27,7 @@ Reamot is compromised of a mobile app (compatible with both iOS and Android) for
 #### Links
 [Android Download](https://play.google.com/store/apps/details?id=com.reamotreactnative)
 #### Images
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Login.jpg" width="150" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Home.jpg" width="150" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/History.jpg" width="150" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Medicine.jpg" width="150" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Detail.jpg" width="150" /><img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Doctor.jpg" width="150" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Login.jpg" width="150" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Home.jpg" width="150" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/History.jpg" width="150" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Medicine.jpg" width="150" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Detail.jpg" width="150" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Doctor.jpg" width="150" />
 
 ## Social Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phuoc-hoang-minh-nguyen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenPhuocHoangMinh)  
