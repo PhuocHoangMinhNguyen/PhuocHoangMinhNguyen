@@ -1,4 +1,5 @@
 # Hi there 👋, I am Minh Nguyen
+![Minh's Banner](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/banner.PNG)
 Passionate about developing websites and Android/iOS mobile applications.
 
 Specialize in React Native, React.js, Node.js, Firebase, etc.
