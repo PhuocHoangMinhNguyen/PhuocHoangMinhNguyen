@@ -1,8 +1,5 @@
 # Hi there 👋, I am Minh Nguyen
 ![Minh's Banner](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/banner.PNG)
-Passionate about developing websites and Android/iOS mobile applications.
-
-Specialize in React Native, React.js, Node.js, Firebase, etc.
 
 ## Github Stats
 [![Minh's github stats](https://github-readme-stats.vercel.app/api?username=PhuocHoangMinhNguyen)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +17,7 @@ CSV to XML System is a system designed for Magellan Logistics Company to transla
 [CSV to XML System](https://csv-to-xml-ee901.web.app/)
 #### Images
 <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="500" />
+
 ### Reamot System
 #### Description
 Reamot is a system, which will be developed with the aim to allow both doctors and pharmacists to monitor the medication adherence of their patients.
