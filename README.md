@@ -28,6 +28,14 @@ Reamot is compromised of a mobile app (compatible with both iOS and Android) for
 #### Images
 <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Login.jpg" width="165" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Home.jpg" width="165" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/History.jpg" width="165" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Medicine.jpg" width="165" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Detail.jpg" width="165" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/Reamot/Doctor.jpg" width="165" />
 
+### ACE Contractors Group's Data Entry Webpage
+#### Description
+Data Entry Webpage was developed as a part of the ACE Contractors Group Pty. Ltd. Recruitment process. It is a webpage allowing users to add, update, or delete lines of information in a table and get the total amount of all lines. It also allows users to print the table as a PDF report.
+#### Links
+[Data Entry URL Link](http://acedataentrywebpage.ap-southeast-2.elasticbeanstalk.com/)
+#### Images
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/1.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/2.PNG" width="500" />
+
 ## Social Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phuoc-hoang-minh-nguyen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenPhuocHoangMinh)  
 
