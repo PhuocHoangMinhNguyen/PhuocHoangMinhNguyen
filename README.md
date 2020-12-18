@@ -1,5 +1,5 @@
 # Hi there 👋, I am Minh Nguyen
-![Minh's Banner](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/banner.PNG)
+![Minh's Banner](https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/newBanner.PNG)
 
 ## Github Stats
 [![Minh's github stats](https://github-readme-stats.vercel.app/api?username=PhuocHoangMinhNguyen)](https://github.com/anuraghazra/github-readme-stats)
