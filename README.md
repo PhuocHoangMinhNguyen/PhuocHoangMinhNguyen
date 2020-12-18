@@ -34,7 +34,7 @@ Data Entry Webpage was developed as a part of the ACE Contractors Group Pty. Ltd
 #### Links
 [Data Entry URL Link](http://acedataentrywebpage.ap-southeast-2.elasticbeanstalk.com/)
 #### Images
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/1.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/2.PNG" width="500" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/1.png" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/2.png" width="500" />
 
 ## Social Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phuoc-hoang-minh-nguyen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenPhuocHoangMinh)  
