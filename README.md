@@ -10,11 +10,30 @@
 * 📄 Firebase
 
 ## Projects
+### Radio Calico Website
+#### Description
+Lossless internet radio player with Angular 21 and HLS.js. Streams 48kHz/24-bit audio with ratings, bookmarks, and stats.
+#### Features
+- 🎵 **Lossless HLS Streaming** — 48kHz/24-bit audio via HLS.js
+- 📊 **Track Ratings** — Thumbs up/down system with PostgreSQL backend
+- 🔖 **Bookmarks** — Save favorite tracks (up to 50)
+- 📈 **Listening Stats** — Track cumulative listening time
+- 🎨 **Light/Dark Theme** — Automatic theme switching with system preference support
+- ⌨️ **Keyboard Shortcuts** — Space (play/pause), ↑/↓ (volume), M (mute), L (like)
+- 🔔 **Browser Notifications** — Desktop notifications for track changes
+- 📱 **Responsive Design** — Mobile-first UI with lazy-loaded components
+- ♿ **Accessibility** — ARIA labels, keyboard navigation, screen reader support
+- 🐳 **Docker Support** — Multi-stage builds for development and production
+#### Links
+[Radio Calico](https://radio-calico.onrender.com/)
+#### Images
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/RadioCalico/RadioCalico.png" width="500" />
+
 ### CSV to XML System
 #### Description
 CSV to XML System is a system designed for Magellan Logistics Company to translate customer's input CSV file to XML file to load into provided FTP servers.
 #### Links
-[CSV to XML System](https://csv-to-xml-ee901.web.app/)
+[CSV to XML System](https://csv-to-xml-5nvf.onrender.com/)
 #### Images
 <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Home.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/Notifications.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/SavedMapping.PNG" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/CSVtoXML/FTPServers.PNG" width="500" />
 
@@ -32,11 +51,11 @@ Reamot is compromised of a mobile app (compatible with both iOS and Android) for
 #### Description
 Data Entry Webpage was developed as a part of the ACE Contractors Group Pty. Ltd. Recruitment process. It is a webpage allowing users to add, update, or delete lines of information in a table and get the total amount of all lines. It also allows users to print the table as a PDF report.
 #### Links
-[Data Entry URL Link](http://acedataentrywebpage.ap-southeast-2.elasticbeanstalk.com/)
+[Data Entry URL Link](http://ace-contractors-prod.eba-kz2ssxnw.ap-southeast-2.elasticbeanstalk.com/)
 #### Images
-<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/1.png" width="500" /> <img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/2.png" width="500" />
+<img src="https://github.com/PhuocHoangMinhNguyen/PhuocHoangMinhNguyen/blob/main/DataEntry/3.png" width="500" />
 
 ## Social Information
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/phuoc-hoang-minh-nguyen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NguyenPhuocHoangMinh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhuocHoangMinhNguyen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-minh-nguyen/)
 
 
